@@ -12,5 +12,6 @@ Planning failed. Terraform encountered an error while generating this plan.
 │   on main.tf line 1, in provider "aws":
 │    1: provider "aws"{
 
-AKIAYCFCUEWQO45TXTEA,w9xJax+LlWdAC/eQbTvmfRxQPgJoNBsX5WpByHte
+AKIAYCFCUEWQLTCYZEEQ
 
+pBXCrtiqTbbOoYkRI4GCzUgWm0uUgcla4iRfk711
