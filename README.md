@@ -11,3 +11,10 @@ Planning failed. Terraform encountered an error while generating this plan.
 │   with provider["registry.terraform.io/hashicorp/aws"],
 │   on main.tf line 1, in provider "aws":
 │    1: provider "aws"{
+
+
+
+
+
+Access key ID,Secret access key
+AKIAYCFCUEWQD7S637PC,7gzJl0J17iqtTocRFQWMqgA7DvS0sEic9PQ3GiWb
